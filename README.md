@@ -31,10 +31,10 @@ In addition, it is good to have an editor to work with the code as **[VSCode](ht
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/luizmr/color-generator
+$ git clone https://github.com/luizmr/perfect-palette-generator
 
 # Access the project folder in the cmd/terminal
-$ cd color-generator
+$ cd perfect-palette-generator
 
 # Run the application in terminal or open with Live Server
 $ npx http-server
